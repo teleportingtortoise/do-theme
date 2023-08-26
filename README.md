@@ -1,9 +1,9 @@
-# Please Don't Theme Our Apps
+# Please Do Theme Our Apps
 
-An initiative by indie app developers for a healthier GNOME third party app ecosystem.
+An initiative by indie app developers for a healthier GNOME third party app ecosystem that keeps long time Linux users and disabled people in mind.
 
-[Read our open letter](https://stopthemingmy.app/)
+The open letter is still a work in progress, but it's coming soon!
 
 ## Join the Fun
 
-If you'd like to sign the open letter, you can [open a pull request](https://github.com/do-not-theme/do-not-theme.github.io/pulls) adding your name and app.
+If you'd like to sign the open letter, you can [open a pull request](https://github.com/teleportingtortoise/do-theme/pulls) adding your name and app.
